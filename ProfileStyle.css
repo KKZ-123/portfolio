@@ -6,11 +6,11 @@
 }
 @font-face {
     font-family: "portfolio";
-    src: url('../Fonts/Valentiny.ttf');
+    src: url('Fonts/Valentiny.ttf');
 }
 @font-face{
     font-family: 'name';
-    src:url('../Fonts/Hello\ Darling.ttf')
+    src:url('Fonts/Hello\ Darling.ttf')
 }
 .hero{
     position : relative;
